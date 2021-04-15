@@ -21,28 +21,28 @@ var dcys = {
             'rema': '直链',
             'apis': 'https://zy.7kjx.com/qkqq.xml',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
-            'coll': '腾腾视频,7Kqq,999999,1'
+            'coll': '腾腾视频,qkqq,999999,1'
         }, {
             'flag': 'youku',
             'name': '优酷视频',
             'rema': '直链',
             'apis': 'https://zy.7kjx.com/qkyk.xml',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
-            'coll': '优酷视频,7Kyk,99998,1'
+            'coll': '酷酷视频,qkyk,99998,1'
         }, {
             'flag': 'qiyi',
             'name': '奇艺视频',
             'rema': '直链',
             'apis': 'https://zy.7kjx.com/qkqy.xml',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
-            'coll': '爱奇艺视频,7Kqy,99997,1'
+            'coll': '奇奇视频,7Kqy,99997,1'
         }, {
             'flag': 'mgtv',
             'name': '芒果视频',
             'rema': '直链',
             'apis': 'https://zy.7kjx.com/qkmg.xml',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
-            'coll': '芒果视频,7Kmg,99996,1'
+            'coll': '果果视频,qkmg,99996,1'
         }]
     },
     'm3u8': {
