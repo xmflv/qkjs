@@ -51,11 +51,11 @@ var dcys = {
         'rows': [
         {
             'flag': 'mahua',
-            'name': '麻花资源网',
+            'name': '快播资源网',
             'rema': 'M3U8',
-            'apis': 'https://www.mhapi123.com/inc/api.php',
+            'apis': 'http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/',
             'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
-            'coll': '麻花云播,mahuam3u8,99986,1'
+            'coll': '快播云播,kbm3u8,99995,1'
         }]
     },
      'news': {
