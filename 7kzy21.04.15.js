@@ -42,7 +42,7 @@ var dcys = {
             'rema': '直链',
             'apis': 'https://zy.7kjx.com/qkqy.xml',
             'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
-            'coll': '奇奇视频,7Kqy,99997,1'
+            'coll': '奇奇视频,qkqy,99997,1'
         }, {
             'flag': 'mgtv',
             'name': '芒果视频',
