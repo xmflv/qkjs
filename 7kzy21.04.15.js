@@ -3,7 +3,7 @@ var dcys = {
     
      'bizh': {
         'head': '官方直链',
-        'tips': '<font color="red">采集全部资源请把独立资源播放器配置了</font>',
+        'tips': '<font color="red">采集全部资源请先把独立资源播放器配置了</font>',
         'rows': [ {
             'name': '全部资源',
             'rema': '直链',
@@ -16,6 +16,13 @@ var dcys = {
         'head': '独立资源',
         'tips': '请先点播放配置',
         'rows': [{
+            'flag': 'qk',
+            'name': '7K资源',
+            'rema': '直链',
+            'apis': 'https://zy.7kjx.com/qkzy.xml',
+            'tips': '<span class="layui-badge layui-bg-green">国内节点</span>',
+            'coll': '7K资源,qkzy,1000000,1'
+        },{
             'flag': 'qq',
             'name': '腾讯视频',
             'rema': '直链',
