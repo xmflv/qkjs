@@ -70,6 +70,14 @@ var dcys = {
             'apis': 'https://m3u8.apibdzy.com/api.php/provide/vod/from/kbm3u8/at/xml/',
             'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
             'coll': '百度云播,dbm3u8,99994,1'
+        }
+		,{
+            'flag': 'leduo',
+            'name': '乐多资源网',
+            'rema': 'M3U8',
+            'apis': 'https://api.leduozy.com/inc/api.php',
+            'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
+            'coll': '乐多云播,leduo,99993,1'
         }]
     },
      'news': {
