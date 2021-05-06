@@ -67,7 +67,7 @@ var dcys = {
             'flag': 'baidu',
             'name': '百度资源网',
             'rema': 'M3U8',
-            'apis': ':https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/?ac=list',
+            'apis': 'https://m3u8.apibdzy.com/api.php/provide/vod/from/kbm3u8/at/xml/',
             'tips': '<span class="layui-badge layui-bg-green">国外节点</span>',
             'coll': '百度云播,dbm3u8,99994,1'
         }]
